@@ -1,0 +1,10 @@
+C:\Users\mrnani\Desktop\TikTokParse\TikTokDownloader\obj\Debug\netstandard2.1\TikTokDownloader.csproj.AssemblyReference.cache
+C:\Users\mrnani\Desktop\TikTokParse\TikTokDownloader\obj\Debug\netstandard2.1\TikTokDownloader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrnani\Desktop\TikTokParse\TikTokDownloader\obj\Debug\netstandard2.1\TikTokDownloader.AssemblyInfoInputs.cache
+C:\Users\mrnani\Desktop\TikTokParse\TikTokDownloader\obj\Debug\netstandard2.1\TikTokDownloader.AssemblyInfo.cs
+C:\Users\mrnani\Desktop\TikTokParse\TikTokDownloader\obj\Debug\netstandard2.1\TikTokDownloader.csproj.CoreCompileInputs.cache
+C:\Users\mrnani\Desktop\TikTokParse\TikTokDownloader\bin\Debug\netstandard2.1\TikTokDownloader.deps.json
+C:\Users\mrnani\Desktop\TikTokParse\TikTokDownloader\bin\Debug\netstandard2.1\TikTokDownloader.dll
+C:\Users\mrnani\Desktop\TikTokParse\TikTokDownloader\bin\Debug\netstandard2.1\TikTokDownloader.pdb
+C:\Users\mrnani\Desktop\TikTokParse\TikTokDownloader\obj\Debug\netstandard2.1\TikTokDownloader.dll
+C:\Users\mrnani\Desktop\TikTokParse\TikTokDownloader\obj\Debug\netstandard2.1\TikTokDownloader.pdb

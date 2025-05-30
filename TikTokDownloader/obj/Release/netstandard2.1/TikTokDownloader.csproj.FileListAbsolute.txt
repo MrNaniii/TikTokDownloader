@@ -1,0 +1,5 @@
+C:\Users\mrnani\Desktop\TikTokParse\TikTokDownloader\obj\Release\netstandard2.1\TikTokDownloader.csproj.AssemblyReference.cache
+C:\Users\mrnani\Desktop\TikTokParse\TikTokDownloader\obj\Release\netstandard2.1\TikTokDownloader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrnani\Desktop\TikTokParse\TikTokDownloader\obj\Release\netstandard2.1\TikTokDownloader.AssemblyInfoInputs.cache
+C:\Users\mrnani\Desktop\TikTokParse\TikTokDownloader\obj\Release\netstandard2.1\TikTokDownloader.AssemblyInfo.cs
+C:\Users\mrnani\Desktop\TikTokParse\TikTokDownloader\obj\Release\netstandard2.1\TikTokDownloader.csproj.CoreCompileInputs.cache
