@@ -3,7 +3,7 @@
 ## Usage
 
 ```csharp
-using TikTokDownloader;
+using TikTokDownloaderLib;
 using System.Threading.Tasks;
 
 class Program
