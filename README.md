@@ -1,5 +1,11 @@
 # TikTokDownloader
 
+## NuGet
+https://www.nuget.org/packages/TikTokDownloader/
+
+## Download
+```dotnet add package TikTokDownloader --version 1.0.3```
+
 ## Usage
 
 ```csharp
