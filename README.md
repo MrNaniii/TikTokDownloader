@@ -4,7 +4,7 @@
 https://www.nuget.org/packages/TikTokDownloader/
 
 ## Download
-```dotnet add package TikTokDownloader --version 1.0.3```
+```dotnet add package TikTokDownloader --version 1.0.4```
 
 ## Usage
 
@@ -19,7 +19,8 @@ class Program
         var downloader = new TikTokDownloader();
         // Replace with your TikTok video URL and output folder path
         await downloader.DownloadVideoAsync("https://www.tiktok.com/@username/video/1234567890", @"C:\Downloads\TikTok", string fileName = "video.mp4");
-        await downloader.DownloadMusicAsync("https://www.tiktok.com/@username/video/1234567890", @"C:\Downloads\TikTok", string fileName = "music.mp3");
+        await downloader.DownloadMusicAsync("https://www.tiktok.com/@username/video_or_photo/1234567890", @"C:\Downloads\TikTok", string fileName = "music.mp3"); 
+        await downloader.DownloadImageAsync("https://www.tiktok.com/@username/photo/1234567890", @"C:\Downloads\TikTok", string fileName = "photo.jpg");
     }
 }
 ```
