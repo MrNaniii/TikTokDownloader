@@ -18,9 +18,9 @@ class Program
     {
         var downloader = new TikTokDownloader();
         // Replace with your TikTok video URL and output folder path
-        await downloader.DownloadVideoAsync("https://www.tiktok.com/@username/video/1234567890", @"C:\Downloads\TikTok", string fileName = "video.mp4");
-        await downloader.DownloadMusicAsync("https://www.tiktok.com/@username/video_or_photo/1234567890", @"C:\Downloads\TikTok", string fileName = "music.mp3"); 
-        await downloader.DownloadImageAsync("https://www.tiktok.com/@username/photo/1234567890", @"C:\Downloads\TikTok", string fileName = "photo.jpg");
+        await downloader.DownloadVideoAsync("https://www.tiktok.com/@username/video/1234567890", @"C:\Downloads\TikTok", "video.mp4");
+        await downloader.DownloadMusicAsync("https://www.tiktok.com/@username/video_or_photo/1234567890", @"C:\Downloads\TikTok", "music.mp3"); 
+        await downloader.DownloadImageAsync("https://www.tiktok.com/@username/photo/1234567890", @"C:\Downloads\TikTok", "photo.jpg");
     }
 }
 ```
