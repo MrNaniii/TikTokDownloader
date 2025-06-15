@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>net7.0</TargetFramework>
     <PackageId>TikTokDownloader</PackageId>
-    <Version>1.0.4</Version>
+    <Version>1.0.5</Version>
     <Authors>MrNaniii</Authors>
     <Description>A TikTok video/audio downloader library.</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
