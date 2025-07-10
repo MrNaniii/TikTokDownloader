@@ -4,7 +4,7 @@
 https://www.nuget.org/packages/TikTokDownloader/
 
 ## Download
-```dotnet add package TikTokDownloader --version 1.0.7```
+```dotnet add package TikTokDownloader --version 1.0.8```
 
 ## Usage
 
